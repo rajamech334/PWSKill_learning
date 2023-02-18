@@ -1,0 +1,7 @@
+Q2. What is DDL? Explain why CREATE, DROP, ALTER, and TRUNCATE are used with an example.
+Ans):
+DDL means data definition language. Which helps to deals with descriptions of the database schema and is used to create and modify the structure of database objects in the database
+CREATE: This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers).
+DROP: This command is used to delete objects from the database.
+ALTER: This is used to alter the structure of the database.
+TRUNCATE: This is used to remove all records from a table, including all spaces allocated for the records are removed.

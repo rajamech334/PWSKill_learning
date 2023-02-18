@@ -1,0 +1,17 @@
+Q) What is a database? Differentiate between SQL and NoSQL databases.
+Ans) a database is an organized collection of data stored and accessed electronically.
+ Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage.
+Difference between SQl and No SQL
+Type of data:
+    - SQL : This will be used where data is structures and can be putinto rows and columns by stablishing the relation
+    - NoSQL: This will be used where data is not in structured and also for the distributed architecture.
+Structure:
+    - SQL : It will use table based structure to store the data
+    - NoSQL: It will use key values, documents based, graph based, wide columnstores
+Scalability : 
+    - SQL: Can be vertically scalable
+    - NoSQL : can be horizontally scalable
+
+Auto elasticity: 
+    - SQL : Requires downtime time 
+    - NoSQL : Automatic, no downtime required

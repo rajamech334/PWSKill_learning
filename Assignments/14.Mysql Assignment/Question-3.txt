@@ -1,0 +1,6 @@
+Q3. What is DML? Explain INSERT, UPDATE, and DELETE with an example.
+Ans)
+DML means data manuplation language. It helps to access the data and modify the data.
+INSERT : It is used to insert data into a table.
+UPDATE: It is used to update existing data within a table.
+DELETE : It is used to delete records from a database table.
